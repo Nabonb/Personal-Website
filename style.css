@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+}
+.for-font{
+    font-family: 'Cinzel', serif;
+
+    
+}
+#for-padding{
+    padding-top: 200px;
+}
+#big-font{
+    font-size: 40px;
+    color: rgb(56, 141, 17);
+}
+section{
+    
+    height: 800px;
+    margin: 0;
+    
+}
+.div-padding{
+    padding-left: 150px;
+    float: left;
+    margin-left: 4%;
+}
+div{
+    width: 30%;
+}
+.another-font{
+    font-family: 'Poppins', sans-serif;
+    color: grey;
+    padding-bottom: 10px;
+}
+a{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    text-decoration: none;
+    background-color: blueviolet;
+    padding: 12px;
+    color: whitesmoke;
+    border-radius: 5px;
+    
+}
+#for-bcimage{
+    background-image: url("personal-website/header-bg.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.div-padding img{
+    float: left;
+    width:800px;
+    height: 700px;
+}
+#bio-bcimage{
+    background-image: url("personal-website/biography-bg.png");
+}
